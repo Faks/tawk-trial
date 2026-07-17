@@ -58,6 +58,6 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "core-js": "^3.8.1",
-    "axios": "^0.21.1"
+    "axios": "^0.32.0"
   }
 }
